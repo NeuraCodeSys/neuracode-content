@@ -8,7 +8,7 @@ url: https://sport-synced.com
 status: Live
 logo: images/sportsynced/logo.jpg
 order: 3
-description: SportSynced runs tournaments and teams in one place, with fixtures, rosters, live scores and season stats for organizers, leagues and coaches.
+description: SportSynced runs tournaments and teams in one place, with fixtures, rosters, live scores and season stats for organizers, leagues, coaches and players.
 updated: 2026-09-29
 ---
 SportSynced runs tournaments and teams in one place, with fixtures, rosters, live scores and stats instead of spreadsheets and group chats.

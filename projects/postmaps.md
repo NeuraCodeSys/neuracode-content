@@ -10,7 +10,7 @@ status: Android app
 platforms: [Android]
 logo: images/postmaps/logo.png
 order: 4
-description: PostMaps brings high-precision geolocation and last-mile routing to delivery and multi-hub operations, in a mobile app built for drivers.
+description: PostMaps brings high-precision geolocation and last-mile routing to delivery and multi-hub operations, in a mobile app built for drivers in the field.
 updated: 2026-09-29
 ---
 PostMaps brings high-precision geolocation and last-mile routing to delivery and multi-hub operations, available as a mobile app.

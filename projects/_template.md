@@ -15,7 +15,7 @@ status: Live                 # "Live" shows a green dot; anything else shows as 
 platforms: [Web, iOS, Android]
 stack: [Next.js, PostgreSQL]
 logo: images/project-name/logo.png    # square, at least 256 px
-cover: images/project-name/cover.png  # screenshot, 1600 x 800
+cover: images/project-name/cover.png  # screenshot, 1600 x 800. Images inside the body text below are not shown on the site — use logo/cover instead.
 order: 10                    # smaller numbers show first
 description: 150 to 160 characters for Google results. Defaults to the tagline.
 updated: 2026-09-29          # date of this edit; used by the sitemap

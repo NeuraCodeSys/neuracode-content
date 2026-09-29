@@ -8,7 +8,7 @@ url: https://revivedeal.com
 status: Live
 logo: images/revivedeal/logo.png
 order: 2
-description: ReviveDeal lets real estate agencies and owners publish and manage properties, short stays and developments in one place, with map search and a mortgage calculator.
+description: ReviveDeal lets real estate agencies and owners publish and manage properties, short stays and developments in one place, with map search and mortgage tools.
 updated: 2026-09-29
 ---
 ReviveDeal lets agencies and owners publish and manage properties, short stays and developments in one place, with search, map listings, market insights and a mortgage calculator.

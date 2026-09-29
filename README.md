@@ -1,7 +1,7 @@
 # NeuraCode website content
 
 Everything on https://www.neuracodeinc.com/projects comes from this repo.
-Changes appear on the site about **5 minutes** after you commit. You never need to redeploy the website.
+Changes appear on the site about **5–10 minutes** after you commit. You never need to redeploy the website.
 
 ## Add a project
 
@@ -19,6 +19,8 @@ Changes appear on the site about **5 minutes** after you commit. You never need 
 2. Upload into a folder named after the project, e.g. `images/acme-portal/logo.png`.
 3. Put that path in the project file: `logo: images/acme-portal/logo.png`.
 
+Images inside the project text (Markdown body) are not shown on the site — use `logo` and `cover` instead.
+
 ## Edit or hide a project
 
 - Edit: open the file, click the pencil icon, change it, commit.
@@ -32,7 +34,7 @@ Changes appear on the site about **5 minutes** after you commit. You never need 
 
 ## Site settings (`site.json`)
 
-Edit `site.json` on GitHub (pencil icon → commit). Changes appear on the site within about 5 minutes. Leave a value empty to turn it off.
+Edit `site.json` on GitHub (pencil icon → commit). Changes appear on the site within about 5–10 minutes. Leave a value empty to turn it off.
 
 | Field | Example | What it does |
 |---|---|---|
