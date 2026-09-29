@@ -29,3 +29,18 @@ Changes appear on the site about **5 minutes** after you commit. You never need 
 - `name`, `type`, `tagline` and `industry` are required. A file missing one is skipped (the rest of the site keeps working).
 - `type` must be `product` or `client`.
 - Files starting with `_` are ignored.
+
+## Site settings (`site.json`)
+
+Edit `site.json` on GitHub (pencil icon → commit). Changes appear on the site within about 5 minutes. Leave a value empty to turn it off.
+
+| Field | Example | What it does |
+|---|---|---|
+| `gtmId` | `GTM-AB12CD3` | Google Tag Manager container. Add Google Analytics and other tags inside Tag Manager, not here. |
+| `googleSiteVerification` | `abc123…` | Google Search Console "HTML tag" verification code (only the `content` value). |
+| `bingSiteVerification` | `0123ABCD…` | Bing Webmaster Tools verification code. |
+| `founded` | `2021` | Founding year shown on the About section. |
+| `teamSize` | `12 people` | Team size shown on the About section. |
+| `profiles` | `["https://www.linkedin.com/company/…"]` | Company profiles (LinkedIn, GitHub, directories). Google uses them to connect the site to the company. |
+
+These values are public by design (they appear in every page's source). Never put passwords, API secrets or tokens in this repo.
