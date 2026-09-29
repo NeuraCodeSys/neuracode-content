@@ -2,7 +2,7 @@
 name: PedidoIQ
 type: product
 tagline: Commission-free online ordering for restaurants.
-short: Commission-free restaurant ordering
+short: Commission-free ordering for restaurants
 industry: Restaurants
 url: https://pedidoiq.app
 status: Live
