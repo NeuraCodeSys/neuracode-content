@@ -3,6 +3,13 @@
 Everything on https://www.neuracodeinc.com/projects comes from this repo.
 Changes appear on the site about **5–10 minutes** after you commit. You never need to redeploy the website.
 
+## How it works
+
+Each file in `projects/` becomes one page on the site. The fields at the top of the file (left) fill the page's title, facts panel, "Visit" button and cover; the text below them becomes the write-up (right).
+
+![A project file on GitHub (left) and the page the site builds from it (right)](docs/how-it-works.png)
+
+
 ## Add a project
 
 1. Open the `projects/` folder and click `_template.md`.

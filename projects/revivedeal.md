@@ -7,9 +7,10 @@ industry: Real estate
 url: https://revivedeal.com
 status: Live
 logo: images/revivedeal/logo.png
+stack: [Angular, Spring Boot, Java 25, PostgreSQL]
 order: 2
 description: ReviveDeal lets real estate agencies and owners publish and manage properties, short stays and developments in one place, with map search and mortgage tools.
-updated: 2026-09-29
+updated: 2026-09-30
 ---
 ReviveDeal lets agencies and owners publish and manage properties, short stays and developments in one place, with search, map listings, market insights and a mortgage calculator.
 
