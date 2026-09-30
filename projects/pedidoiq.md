@@ -8,9 +8,11 @@ url: https://pedidoiq.app
 status: Live
 platforms: [Web, WhatsApp]
 logo: images/pedidoiq/logo.svg
+stack: [Next.js, React, Spring Boot, Java 21, PostgreSQL, Python, FastAPI]
+cover: images/pedidoiq/cover.jpg
 order: 1
 description: PedidoIQ gives restaurants their own branded ordering channel on the web, WhatsApp, AI chat and table QR codes, with no delivery-app commission taken.
-updated: 2026-09-29
+updated: 2026-09-30
 ---
 PedidoIQ gives a restaurant its own branded ordering channel, so customers order directly by web, WhatsApp, AI chat or a table QR code, without paying delivery-app commissions.
 

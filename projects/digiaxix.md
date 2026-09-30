@@ -7,9 +7,10 @@ industry: Custom software
 url: https://digiaxix.com
 status: Live
 logo: images/digiaxix/logo.svg
+cover: images/digiaxix/cover.jpg
 order: 6
 description: DigiAxix is NeuraCode's studio for client work, building web and mobile apps, AI assistants and platform engineering for companies that need a build partner.
-updated: 2026-09-29
+updated: 2026-09-30
 ---
 DigiAxix is NeuraCode's studio for client work: web and mobile apps, AI and chatbots, and platform engineering, with the same practice behind our own products.
 
